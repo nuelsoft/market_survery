@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193250468620",
+    "firebase_url": "https://marketsurvey-caf29.firebaseio.com",
+    "project_id": "marketsurvey-caf29",
+    "storage_bucket": "marketsurvey-caf29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193250468620:android:7ccb156a5b6d873333df29",
+        "android_client_info": {
+          "package_name": "com.soft.market_survey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193250468620-8p51vv2nrhrv4iohukh54d5ss15di772.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEyujUF25wukFOUEJpMcl2UTKwKHvrX7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193250468620-8p51vv2nrhrv4iohukh54d5ss15di772.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
