@@ -1,5 +1,6 @@
 # market_survey
 
+Market Survey app for RAD5 Tech Hub. Extends Flutter and implements Firebase
 App for market survey data collection
 
 ## Getting Started
